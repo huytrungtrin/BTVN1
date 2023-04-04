@@ -1,0 +1,26 @@
+.bg_div_image {
+    background-image: url('roseFlowerBackground.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 500px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin : 10px 20px 30px 10px
+}
+.header a{
+    color:white;
+    margin-top: 30px;
+    margin-right: 20px;
+    margin-left: auto;
+}
+.content {
+
+   text-align: center;
+    display:block;
+    margin:auto;
+}
+.button {
+    float: right;
+}
